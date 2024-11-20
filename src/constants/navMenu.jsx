@@ -1,0 +1,27 @@
+export const NavbarMenu = [
+    {
+        id:1,
+        name:"Home",
+        link:"/"
+    },
+    {
+        id:2,
+        name:"Trainer",
+        link:"#"
+    },
+    {
+        id:3,
+        name:"Program",
+        link:"#"
+    },
+    {
+        id:4,
+        name:"Blog",
+        "link":"#"
+    },
+    {
+        id:5,
+        name:"Pricing",
+        "link":"#"
+    }
+]
